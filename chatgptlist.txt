@@ -38,6 +38,7 @@ ff02::3 ip6-allhosts
 # http://stevenblack.com
 
 0.0.0.0 chatgpt.com
+0.0.0.0 youtube.com
 
 # End yoyo.org
 
